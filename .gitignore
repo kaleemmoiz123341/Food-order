@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build output (optional if you're using tsc)
+dist/
+build/
+
+# OS-specific
+.DS_Store
+
+# Logs
+*.log
